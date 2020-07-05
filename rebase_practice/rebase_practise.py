@@ -1,2 +1,1 @@
-print('First commit on rebase practice branch')
-print('Second commit on remote')
+print('practice rebase is ahead by one commit')
